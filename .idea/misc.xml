@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/drawable/edit_text_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/drawable/gradient_dg.xml" value="0.176" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/drawable/icon_selected.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/activity_main_activity4_create_new_account.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/activity_slider.xml" value="0.176" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/custom_item_recyclerview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/fragment_home_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/fragment_sections_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/main_activity2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/slider_custom.xml" value="0.16" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/layout/slider_custom_in_app.xml" value="0.253125" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/appeasily/app/src/main/res/menu/menu1.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:layout_gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign in"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginTop="-10dp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="75dp"
+           >
+
+        </TextView>
+
+
+
+
+        <EditText
+            android:drawableStart="@drawable/ic_baseline_person_24"
+            android:drawableLeft="@drawable/ic_baseline_person_24"
+            android:inputType="textPersonName"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:hint="user name"
+            android:autoSizeTextType="uniform"
+            android:textColorHint="@color/black"
+            android:textSize="15sp"
+            android:background="@drawable/edit_text_style"
+            android:textColor="@color/black"
+            android:id="@+id/userName">
+
+        </EditText>
+
+        <EditText
+            android:drawableStart="@drawable/ic_baseline_lock_24"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:inputType="numberPassword"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:hint="user name"
+            android:textColorHint="@color/black"
+            android:autoSizeTextType="uniform"
+            android:textSize="15sp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/edit_text_style"
+            android:textColor="@color/black"
+            android:id="@+id/password">
+
+        </EditText>
+
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/edit_text_style"
+            android:text="login"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:id="@+id/login_button"
+            >
+        </Button>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create an account ? "
+            android:layout_marginTop="160dp"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:id="@+id/new_account_tv">
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
